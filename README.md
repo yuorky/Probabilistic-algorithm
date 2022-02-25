@@ -1,1 +1,1 @@
-# Probabilitic-algorithm
+# Probabilistic-algorithm
